@@ -1,0 +1,33 @@
+FTP Client Notes
+
+https://support.domainit.com/index.php?/Knowledgebase/Article/View/1071/0/what-is-an-ftp-client-and-how-do-i-use-one
+
+1.What is an FTP client
+- File Transfer Protocol
+- method to upload, download and manage files on a server
+- exchanging files over any network that supports the TCP/IP protocol
+- two computers involved:
+	- server
+	- client
+- client initiates a connection to the server
+- then the client can to file manipulation on the server
+- allows any computer connected to a TCP/IP based network to manipulate files on 
+  another computer on that network regardless of which operating systems are used
+
+2. How do I use an FTP client?
+- FTP login details to access your FTP account through an FTP program:
+Server(Host):
+Remote Directory:
+Username:
+Password:
+-------------------------------------------------------------------------------
+https://www.rfc-editor.org/rfc/rfc959
+
+1. INTRODUCTION
+- objectives of FTP:
+	- promote sharing of files
+	- encourage indirect or implicit(via programs) use of remote computers
+	- shield a user from variations in file storage systems among hosts
+	- transfer data reliably and efficiently
+- designed for use by programs(can be used by user at a terminal
+- 
