@@ -1,0 +1,2 @@
+IP notes
+https://www.rfc-editor.org/rfc/rfc791
