@@ -1,1 +1,15 @@
 TCP notes
+https://www.rfc-editor.org/rfc/rfc793
+1. INTRODUCTION
+- intended for use as a highly reliable host-to-host protocol between hosts in 
+  packet-switched computer communication networks, and in interconnected systems of such 
+  networks
+
+1.1 Motivation
+- providing means of interconnecting computer networks
+  and to provide standard interprocess communication protocols
+  which can support a broad range of applications
+- TCP is connection-oriented, end-to-end reliable protocol 
+- the TCP should be able to operate above a wide spectrum of communication systems
+  ranging from hard-wired connections to packet-switched or circuit-switched networks
+
